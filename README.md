@@ -15,6 +15,16 @@ The project includes:
 - DevTools Testing
 - Screenshots as test evidence
 
+## Test Execution Summary
+
+- Checklist checks: 85
+- Test cases: 35
+- Passed: 34
+- Blocked: 1
+- Bug reports: 6
+- DevTools checks: 10
+
+
 ## Tested Areas
 
 - Registration
