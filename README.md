@@ -13,7 +13,6 @@ The project includes:
 - Bug Reports
 - Test Summary Report
 - DevTools Testing
-- API Testing with Postman
 - Screenshots as test evidence
 
 ## Tested Areas
@@ -36,7 +35,6 @@ The project includes:
 - [Bug Reports](bug-reports/)
 - [Test Summary](test-summary/)
 - [DevTools Testing](devtools-testing/)
-- [API Testing](api-testing/)
 - [Screenshots](screenshots/)
 
 ## Bug Reports
@@ -53,21 +51,12 @@ Evidence:
 Evidence:
 - [DevTools Screenshots](screenshots/devtools/)
 
-## API Testing
 
-API testing was performed using Postman.
-
-The project includes GET, POST, PUT and DELETE requests.
-
-Evidence:
-- [API Testing Files](api-testing/)
-- [API Screenshots](screenshots/api/)
 
 ## Tools
 
 - Chrome
 - Chrome DevTools
-- Postman
 - Google Sheets
 - Git
 - GitHub
