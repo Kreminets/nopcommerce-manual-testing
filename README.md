@@ -24,7 +24,13 @@ The project includes:
 - Bug reports: 6
 - DevTools checks: 10
 
+## Test Environment
 
+- OS: Windows
+- Browser: Google Chrome
+- Application: nopCommerce Demo Store
+
+  
 ## Tested Areas
 
 - Registration
