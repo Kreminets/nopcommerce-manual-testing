@@ -20,7 +20,7 @@ The project includes:
 - Checklist checks: 85
 - Test cases: 35
 - Passed: 34
-- Blocked: 1
+- Failed: 1
 - Bug reports: 6
 - DevTools checks: 10
 
