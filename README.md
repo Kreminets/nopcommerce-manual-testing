@@ -42,6 +42,7 @@ The project includes:
 - My Account
 - Product pages
 - Filters and sorting
+- Password Recovery
 
 ## Test Artifacts
 
