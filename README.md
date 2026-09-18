@@ -26,7 +26,7 @@ The project includes:
 
 ## Test Environment
 
-- OS: Windows
+- OS: Windows 10 Pro
 - Browser: Google Chrome
 - Application: nopCommerce Demo Store
 
